@@ -1,3 +1,13 @@
+## Libraries and commands for image registration research
+
+This is a development fork of [MIRTK](https://github.com/BioMedIA/MIRTK), the Medical Image Registration ToolKit developed by BioMedIA. Upstream provides research-focused image-processing libraries and command-line tools, with a modular build and extension packages. It is useful when registration and related image-analysis steps need to become part of a scripted research workflow.
+
+**Contribution to review:** [PR #793](https://github.com/BioMedIA/MIRTK/pull/793) proposes an Apple silicon fallback for the MATLAB MEX filename extension. The proposal concerns build-time MATLAB filename detection.
+
+Begin with the [official installation guide](https://mirtk.github.io/install.html) and [documentation](https://mirtk.github.io/) for tools and modules. Upstream license and citation guidance remain below. The [branch comparison](https://github.com/BioMedIA/MIRTK/compare/master...jdotc1:master) shows this fork's default branch.
+
+---
+
 Medical Image Registration ToolKit
 ==================================
 
